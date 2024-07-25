@@ -21,7 +21,7 @@
 #img-2 {
   width: 340px;
   height: 340px;
-  background: url('../img/photo.avif') no-repeat #FFF;
+  background: url('https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOKq8uWoPaDB_fnBaWTUJnq8dcZ3Yul0hm1LtvO818IGR60-H0aastaQpd08NNfzUrYpfevf8yzMupjUYq5OFmOjo_xv07Mbfi1AZS817kqK0IDPMcygsQ5krsAMWXST4c1Ac92PlV5Gne19sVH1HYNRO1j22bqBNwcgZDPCBfXHff0tH74urOBtLgAlh0/s320/seragam%20chef.jpg') no-repeat #FFF;
   box-shadow: 0 5px 10px -2px rgba(0,0,0,0.3);
   pointer-events: none;
   position: absolute;
